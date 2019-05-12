@@ -1,0 +1,2 @@
+1. Install live server 
+    sudo npm install live-server -g --unsafe-perm=true --allow-root
