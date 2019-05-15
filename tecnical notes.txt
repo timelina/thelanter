@@ -1,2 +1,9 @@
 1. Install live server 
     sudo npm install live-server -g --unsafe-perm=true --allow-root
+
+
+
+
+    https://www.google.com/maps/place/The+Lantern+Of+Lake+Forest/@42.2534716,-87.8406285,3a,75y/data=!3m8!1e2!3m6!1sAF1QipPv8dVbo4oBIlcL4_hjehb_Xcy7OCAlgX-vSONZ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPv8dVbo4oBIlcL4_hjehb_Xcy7OCAlgX-vSONZ%3Dw203-h152-k-no!7i4032!8i3024!4m5!3m4!1s0x0:0x7ccd68c81bf6cfae!8m2!3d42.2534716!4d-87.8406285
+
+    

@@ -1,0 +1,30 @@
+Menu
+    Appetizers
+
+    Salads
+
+    Wraps
+
+    Flatbreads
+
+    Sandwiches
+
+    Best Burgers In Town
+
+    Lantern's Favorites
+
+    Sides
+
+Specials
+    Mondays
+    Tuesdays
+    Wednesday
+    Thursdays
+    Fridays
+    Saturdays
+    Sundays
+
+Drink
+    Draft Beer
+
+    Bottles
